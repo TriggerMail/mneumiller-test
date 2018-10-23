@@ -1,1 +1,1 @@
-# mneumiller-test
+Congrats on your new repo: mneumiller-test!. CircleCI is set up for you here: https://circleci.com/gh/TriggerMail/mneumiller-test
